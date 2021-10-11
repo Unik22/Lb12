@@ -1,0 +1,112 @@
+.wid{
+	width: 20%;
+	display:inline-block ;
+}
+.wid div{
+width: 200px;
+}
+.top-bun{
+	background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0-chU8GnaPqDQiMReOPgOBm9ON-BweuxD7w&usqp=CAU);
+	height: 80px;
+	border-top-right-radius: 80px;
+    border-top-left-radius: 80px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+.top-lettuce{
+	background-color: green;
+	height: 10px;
+	border-radius: 4px;
+}
+.tomato{
+	background-color: red;
+	height: 10px;
+	border-radius: 4px;
+}
+.cheese{
+	background-color: yellow;
+	height: 10px;
+	border-radius: 4px;
+}
+.patty{
+	background-color: brown;
+	height: 15px;
+	border-radius: 4px;
+}
+.bottom-lettuce{
+	background-color: green;
+	height: 10px;
+	border-radius: 4px;
+}
+.bottom-bun{
+	background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0-chU8GnaPqDQiMReOPgOBm9ON-BweuxD7w&usqp=CAU);
+	height: 30px;
+	border-bottom-right-radius: 20px;
+	border-bottom-left-radius: 20px;
+	border-top-right-radius: 5px;
+	border-top-left-radius: 5px;
+}
+
+/*///////////////*/
+
+.wid1{
+	display: inline-block;
+	width: 20%;
+	
+}
+.wid1 div{
+
+width: 200px;
+}
+#top-bun{
+	background-color: peru;
+	height: 80px;
+	border-top-right-radius: 80px;
+    border-top-left-radius: 80px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+#top-lettuce{
+	background-color: green;
+	height: 10px;
+	border-radius: 4px;
+}
+#tomato{
+	background-color: red;
+	height: 10px;
+	border-radius: 4px;
+}
+#cheese{
+	background-color: yellow;
+	height: 10px;
+	border-radius: 4px;
+}
+#onion{
+	background-color: orange;
+    height: 5px;
+    border-radius: 4px;
+}
+#cucumber{
+	background-color: greenyellow;
+	height: 5px;
+	border-radius: 4px;
+}
+#patty{
+	background-color: brown;
+	height: 15px;
+	border-radius: 4px;
+}
+#bottom-lettuce{
+	background-color: green;
+	height: 10px;
+	border-radius: 4px;
+}
+
+#bottom-bun{
+	background-color: peru;
+	height: 30px;
+	border-bottom-right-radius: 20px;
+	border-bottom-left-radius: 20px;
+	border-top-right-radius: 5px;
+	border-top-left-radius: 5px;
+}
